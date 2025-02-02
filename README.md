@@ -73,5 +73,5 @@ https://github.com/raspberrypi/pico-sdk
 
 ## Autor
 - [Gabriel Silva Sampaio]
-- [Vídeo de demonstração]([https://github.com/seu-usuario](https://www.dropbox.com/scl/fi/rlu4upu56htxicuqga8ns/YouCut_20250202_195650582.mp4?rlkey=t8eahsou6q8hp9a8970a820y7&st=gvu13lf7&dl=0))
+- [Vídeo de demonstração]([https://github.com/seu-usuario](https://www.dropbox.com/scl/fi/rlu4upu56htxicuqga8ns/YouCut_20250202_195650582.mp4?rlkey=t8eahsou6q8hp9a8970a820y7&st=gvu13lf7&dl=0)
 
